@@ -1,0 +1,26 @@
+:root {
+  /* Fontes */
+
+  --fonte-1: 'Poppins', sans-serif;
+  --fonte-2: 'Staatliches', cursive;
+
+  /* Paletas de Cores */
+  --cor-bg1: #EFEFEF;
+  --cor-bg2: #535971;
+  --cor-bg-form: #FFFFFF;
+  --cor-bg-caixa: #FAFAFC;
+  --cor-border-caixa: #e6e6f0;
+  --cor-border-caixainvalida: #f30000;
+  --cor-titulo-principal: #FFFFFF;
+  --cor-subtitulo-principal: #FFFFFF;
+  --cor-titulo-form: #535971;
+  --cor-subtitulo-form: #535971;
+  --cor-texto-form: #4E4958;
+  --cor-texto-caixa: #4e4958;
+  --cor-texto-span: #C1BCCC;
+  --cor-texto-spanhover: #6f6c75;
+  --cor-button: #FF5374;
+  --cor-buttonhover: #fd224e;
+  --cor-texto-button: #FFFFFF;
+  --cor-separador: #e6e6f0;
+}
